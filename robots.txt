@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anwishn.github.io/sitemap.xml
