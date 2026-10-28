@@ -5,7 +5,7 @@ Personal academic website: https://anwishn.github.io/
 Buildless HTML and CSS, hosted on GitHub Pages.
 
 - `index.html`: research, upcoming poster presentation, education, experience, honors, activities, and qualifications.
-- `projects.html`: selected projects, earlier team projects, and study repositories.
+- `projects.html`: selected data science projects with code, reports, and presentation materials.
 - `assets/seungwon-yum-cv.pdf`: original CV, September 2026 edition.
 
 The upcoming conference presentation is listed as forthcoming, with the title and authors from its abstract. The CV remains the original September 2026 document.
