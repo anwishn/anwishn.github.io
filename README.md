@@ -1,9 +1,13 @@
 # Seungwon Yum
 
-[Academic profile](https://anwishn.github.io/)
+Personal academic website: https://anwishn.github.io/
 
-A minimal academic profile for GitHub Pages, with research, education, selected projects, experience, honors, and links to the CV and code. Additional projects and certifications expand in place.
+Buildless HTML and CSS, hosted on GitHub Pages.
 
-Edit `index.html` to update the profile, `styles.css` for its appearance, and `assets/seungwon-yum-cv.pdf` for the downloadable CV. No build tools or JavaScript are required. GitHub Pages serves the repository root on `main`.
+- `index.html`: research, upcoming poster presentation, education, experience, honors, activities, and qualifications.
+- `projects.html`: selected projects, earlier team projects, and study repositories.
+- `assets/seungwon-yum-cv.pdf`: original CV, September 2026 edition.
 
-Current research: **Localized Sparse PCA in the Graph Frequency Domain**. The original September 2026 CV is provided unchanged.
+The upcoming conference presentation is listed as forthcoming, with the title and authors from its abstract. The CV remains the original September 2026 document.
+
+No build step or JavaScript dependency is required. Serve this directory with a local static server to preview changes.
